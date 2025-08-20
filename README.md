@@ -34,6 +34,16 @@ $ npm run test:cov
 ```
 
 
+
+# GraphQL Playground
+
+[http://localhost:3000/graphql](http://localhost:3000/graphql)
+
+Spring graphql version is here
+[springboot-graphql](https://github.com/vhoang55/springboot-graphql)
+
+
+
 # Example Query and Mutation
 
 ```graphql
